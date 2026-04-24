@@ -11,5 +11,4 @@ The script interfaces with Windows management commands via the `subprocess` modu
 
 ### Usage
 This script requires Administrative privileges to query group memberships:
-1. Open Command Prompt as Administrator.
-2. Run: `python privilege_auditor.py`
+Run: `python privilege_auditor.py` as Administrator, or run the script from Command Prompt.
